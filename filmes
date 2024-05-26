@@ -4,7 +4,7 @@
         <TItle>FILMES</TItle>
     </HEAd>
 <BOdy>
-    <H1><em>FILMES FAVORITOS</em></H1>
+    <H1 id="titulo"><em>FILMES FAVORITOS</em></H1>
     <SECTion>
         <IMG src="a cinco passos de você.jpg"/>
         <p>
@@ -35,5 +35,6 @@
             <a href="https://pt.wikipedia.org/wiki/Minha_M%C3%A3e_%C3%89_uma_Pe%C3%A7a">Minha mãe é uma peça</a>
         </p>
     </SECTion>
+    <a href="#titulo">retornar ao topo</a>
 </BOdy>
 </HTMl>
