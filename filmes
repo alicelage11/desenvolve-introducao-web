@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<HTMl>
+    <HEAd>
+        <TItle>FILMES</TItle>
+    </HEAd>
+<BOdy>
+    <H1><em>FILMES FAVORITOS</em></H1>
+    <SECTion>
+        <IMG src="a cinco passos de você.jpg"/>
+        <p>
+            <a href="https://pt.wikipedia.org/wiki/Five_Feet_Apart">a cinco passos de você</a>
+        </p>
+    </SECTion>
+    <SECTion>
+        <IMG src="alice no país das maravilhas.jpg"/>
+        <p>
+            <a href="https://pt.wikipedia.org/wiki/Alice_no_Pa%C3%ADs_das_Maravilhas_(filme_de_2010)">Alice no país das Maravilhas</a>
+        </p>
+    </SECTion>
+    <SECTion>
+        <IMG src="gente grande.jpg"/>
+        <p>
+            <a href="https://pt.wikipedia.org/wiki/Grown_Ups">Gente Grande</a>
+        </p>
+    </SECTion>
+    <SECTion>
+        <IMG src="minha irma e eu.jpg"/>
+        <p>
+            <a href="https://pt.wikipedia.org/wiki/Minha_Irm%C3%A3_e_Eu">Minha irmã e eu</a>
+        </p>
+    </SECTion>
+    <SECTion>
+        <IMG src="minha mãe e uma peça.jpg"/>
+        <p>
+            <a href="https://pt.wikipedia.org/wiki/Minha_M%C3%A3e_%C3%89_uma_Pe%C3%A7a">Minha mãe é uma peça</a>
+        </p>
+    </SECTion>
+</BOdy>
+</HTMl>
