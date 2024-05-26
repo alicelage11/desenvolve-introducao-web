@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>meu portal de notícias</title>
+    </head>
+    <body>
+        <header>
+            <h1>Meu portal de notícias</h1>
+        </header>
+        <img src="https://fastly.picsum.photos/id/684/50/50.jpg?hmac=9ehD9pmTIOlMMX-RgVH_9C06MNCSFbXXimZL00h_B5c"/>
+        <main>
+            <article>
+                <h2>O comércio ilícito com a China </h2>
+                <h3>que alimenta a insurgência em Moçambique</h3>
+                <p>
+                    Com valor estimado de <strong>US$ 23 milhões</strong> (cerca de R$ 120 milhões) por ano, o contrabando de madeira das florestas antigas de Moçambique para a China ajuda a financiar a brutal insurgência islâmica e uma grande rede criminosa no norte do país africano.
+                </p>
+                <p>O <strong>comércio ilegal</strong> de pau-rosa foi relacionado ao <em>financiamento de violentos militantes moçambicanos</em> ligados ao grupo autodenominado Estado Islâmico, na província de Cabo Delgado, segundo dados da ONG Agência de Investigação Ambiental (EIA, na sigla em inglês), analisados pela BBC. A organização se dedica a denunciar supostos crimes ambientais.</p>
+                <p>Pau-rosa é o nome comercial comum que identifica diversas espécies de madeiras nobres tropicais, muito valorizadas na China para a fabricação de móveis de luxo.</p>
+                <p>Um tratado internacional protege o <strong>pau-rosa moçambicano</strong>, permitindo apenas o comércio de quantidades muito limitadas, que não ameacem a <em>perpetuação da espécie.</em></p>
+                <p>
+                    <em>fonte: BBC Brasil</em>
+                </p>
+            </article>
+            <article>
+                <h2>outra noticia</h2>
+                <h3>mais detalhes da outra noticia</h3>
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero veritatis est sequi iure voluptatum dolor debitis quis incidunt culpa saepe totam id tenetur, facilis tempore vel praesentium consectetur! Ut, eligendi!
+                </p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis architecto incidunt distinctio, eos cupiditate, velit soluta fugit quas in nam totam mollitia culpa ullam, ex facilis quos ab tenetur amet!
+                </p>
+                <p><em>fonte: fonte da noticia</em></p>
+            </article>
+        </main>
+        <footer>
+            <ul>
+                <li><a href="https://www.facebook.com">facebook</a></li>
+                <li><a href="https://www.instagram.com">instagram</a></li>
+                <li><a href="https://www.twitter.com">twitter</a></li>
+            </ul>
+        </footer>
+    </body>
+</html>
