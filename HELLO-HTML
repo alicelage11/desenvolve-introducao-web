@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>olá,mundo!</title>
+    </head>
+    <body> 
+        <h1> olá, seja bem vindo!</h1>
+        <p>
+            Bem vindo ao curso de programação do projeto web do Desenvolve!
+            Meu nome é Alice Lage, sou da cidade de Itabira-mg e tenho 17 anos. Estudo na escola Trajano Procópio (mais conhecida como PREMEM). Atualmente estou cursando o meu último ano do Ensino Médio. Moro com meus pais e meu irmão, Arthur de 12 anos e além de fazer o curso do desenvolve, aos finais de semana participo do Movimento Escoteiro como guia.
+        </p>
+        <p> 
+            Algumas das coisas que mais gosto de fazer são: Viajar, contemplar a natureza, viver momentos incríveis com meus amigos e família, aprender mais, ver séries e ouvir música!
+        </p>
+    </body>
+</html>
