@@ -1,0 +1,12 @@
+/* Color Theme Swatches in Hex */
+/*.principal { color: #23C9EB; }
+.blackground { color: #234BEB; }
+.css-zen-garden-3-hex { color: #FFFFFF; }
+.css-zen-garden-4-hex { color: #23EBC9; }
+.css-zen-garden-5-hex { color: #3A23EB; }
+.destaque { color: #71B0EB; }*/
+
+html{
+    background:#234BEB;
+    color:#23C9EB ;
+}
